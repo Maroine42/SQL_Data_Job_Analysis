@@ -131,7 +131,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5;
 ```
-Here's the breakdown of the most demanded skills for data analysts in 2023
+Here's the breakdown of the most demanded skills for data scientists in 2023
 
 - Python’s Overwhelming Dominance: With 723 mentions, Python is by far the most in-demand skill, more than doubling the demand for SQL (376). This reinforces Python’s role as the lingua franca of data science, likely due to its versatility in data analysis, machine learning, and automation.
 
@@ -164,7 +164,7 @@ ORDER BY
     avg_salary DESC
 LIMIT 25;
 ```
-Here's a breakdown of the results for top paying skills for Data Analysts:
+Here's a breakdown of the results for top paying skills for Data Scientists:
 
 - Niche Tools Command Premium Salaries: The top-paying skills—like Asana (project management, 215K),Airtable(201K), and RedHat (enterprise Linux, $189K)—are not traditional data science tools. This suggests that specialized or cross-functional expertise (e.g., DevOps, workflow automation) can significantly boost earning potential, even in data-centric roles.
 
